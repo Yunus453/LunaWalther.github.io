@@ -1,1 +1,6 @@
-button    {color: tomato;}
+button {
+  color: tomato;
+}
+link {
+  visibility: hidden;
+}
